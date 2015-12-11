@@ -37,4 +37,6 @@ After that, install cuda on your machine:
 <pre><code>~/my_opencv_dir/opencv/release$ make
 ~/my_opencv_dir/opencv/release$ sudo make install</code></pre>
 
+
+That's it, you're good to go :)
  
