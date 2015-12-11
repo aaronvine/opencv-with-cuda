@@ -20,7 +20,7 @@ After that, install cuda on your machine:
 
 3. Go ahead and get the latest cutting edge opencv from the git repository:
 <pre><code>~$ mkdir my_opencv_dir
-~$ cd ~/my_opencv_dir
+~$ cd my_opencv_dir
 ~/my_opencv_dir$ git clone https://github.com/Itseez/opencv.git</code></pre>
 
 
